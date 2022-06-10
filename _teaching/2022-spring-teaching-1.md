@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "2022 Spring: Teaching Assistant"
 collection: teaching
-type: "2022 Spring: STAT 2000 Introductory Statistics"
+type: "STAT 2000 Introductory Statistics"
 permalink: /teaching/2022-spring-teaching-1
 venue: "UGA, Statistics"
 location: "Athens, GA"
