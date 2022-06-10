@@ -7,3 +7,4 @@ venue: "UGA, Statistics"
 date: 2021 Fall
 location: "Athens, GA"
 ---
+Instructor: [Nicholas Toebben](https://www.stat.uga.edu/directory/people/nicholas-toebben)
