@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, University of Science and Technology of China, 2016
+  * Instructor: [Professor Xiao Guo](https://bs.ustc.edu.cn/english/profile.php?id=308)
 * Ph.D in Statistics, University of Georgia, 2021 (expected)
  
 Skills
@@ -19,16 +20,8 @@ Skills
 * R
 * Python
 
-
-# Publications
-# ======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-# Teaching
-# ======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+Experience
+======
+* Reasearch Assistance: in Statistics, University of Science and Technology of China, 2020
+  * Instructor: [Professor Xiao Han](https://bs.ustc.edu.cn/english/profile.php?id=652)
   
