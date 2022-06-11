@@ -22,6 +22,6 @@ Skills
 
 Experience
 ======
-* Reasearch Assistance: in Statistics, University of Science and Technology of China, 2020-2021
+* Reasearch Assistant: in Statistics, University of Science and Technology of China, 2020-2021
   * Instructor: [Professor Xiao Han](https://bs.ustc.edu.cn/english/profile.php?id=652)
   
