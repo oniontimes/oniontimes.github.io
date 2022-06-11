@@ -1,5 +1,5 @@
 ---
-title: "2021 Fall：Teaching Assistant "
+title: "2021 Fall: Teaching Assistant "
 collection: teaching
 type: "STAT 2000 Introductory Statistics"
 permalink: /teaching/2021-fall-teaching-1
