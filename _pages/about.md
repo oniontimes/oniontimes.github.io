@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome to Cong’s homepage
 ======
-I’m a second year Ph.D. student at the Department of statistics of [University of Georgia](https://www.stat.uga.edu). My advisor is Prof. [Yuan Ke](https://yuan-ke.github.io). Prior to that, I was an undergraduate student in [University of Science and Technology of China (USTC)](http://math.ustc.edu.cn/ENGLISH/list.htm). My advisor is Prof. [Xiao Han](https://bs.ustc.edu.cn/english/profile.php?id=652) and Prof [Xiao Guo](https://bs.ustc.edu.cn/english/profile.php?id=308).
+I’m a second year Ph.D. student at the Department of statistics of [University of Georgia](https://www.stat.uga.edu). My advisors are Prof. [Yuan Ke](https://yuan-ke.github.io) and Prof. [Yang Yang](https://www.stat.uga.edu/directory/people/yang-yang). Prior to that, I was an undergraduate student in [University of Science and Technology of China (USTC)](http://math.ustc.edu.cn/ENGLISH/list.htm). My advisor is Prof. [Xiao Han](https://bs.ustc.edu.cn/english/profile.php?id=652) and Prof [Xiao Guo](https://bs.ustc.edu.cn/english/profile.php?id=308).
