@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m a fourth-year Ph.D. student at the Department of Statistics of [University of Georgia](https://www.stat.uga.edu). My advisor is Prof. [Yuan Ke](https://yuan-ke.github.io). My research focuses on Change Point Detection.  Prior to that, I was an undergraduate student at [University of Science and Technology of China (USTC)](http://math.ustc.edu.cn/ENGLISH/list.htm). My advisors are Prof. [Xiao Han](https://bs.ustc.edu.cn/english/profile-652.html) and Prof. [Xiao Guo](https://bs.ustc.edu.cn/english/profile-308.html).
+I am a fourth-year Ph.D. student in the **Department of Statistics** at the [University of Georgia](https://www.stat.uga.edu). My advisor is Prof. [Yuan Ke](https://yuan-ke.github.io), and my research focuses on **change point detection** and **feature selection**.
 
-Besides, I am a member of [NewGen Psychometrics and Data Science Analytics (NPDA) Lab](https://coe.uga.edu/research/labs/newgen-psychometrics-and-data-science-analytics-npda-lab) where I work with Prof. [Shiyu Wang](https://people.coe.uga.edu/shiyu-wang/).
+Previously, I completed my undergraduate studies at the [University of Science and Technology of China (USTC)](http://math.ustc.edu.cn/ENGLISH/list.htm) under the mentorship of Prof. [Xiao Han](https://bs.ustc.edu.cn/english/profile-652.html) and Prof. [Xiao Guo](https://bs.ustc.edu.cn/english/profile-308.html).
+
+Additionally, I am a member of the [NewGen Psychometrics and Data Science Analytics (NPDA) Lab](https://coe.uga.edu/research/labs/newgen-psychometrics-and-data-science-analytics-npda-lab), where I collaborate with Prof. [Shiyu Wang](https://people.coe.uga.edu/shiyu-wang/).
