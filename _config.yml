@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Cong Cheng"
   avatar           : "profile.JPG"
-  bio              : "I am a third year PhD student at the University of Georgia"
+  bio              : "I am a fourth year PhD student at the University of Georgia"
   location         : "Athens, GA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com.hk/citations?user=wSZAfcQAAAAJ"
   email            :  "Cong.Cheng@uga.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
